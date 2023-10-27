@@ -1,6 +1,6 @@
 filename = input("File name: ")
 if filename.endswith(".jpg"):
-    print("image/jpg")
+    print("image/ipeg")
 elif filename.endswith(".jpeg"):
     print("image/jpeg")
 elif filename.endswith(".png"):
